@@ -8,7 +8,7 @@
     }
   },
   "profiles": {
-    "AspNetCoreMvcHtmx": {
+    "ModularAspNetCore": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": false,

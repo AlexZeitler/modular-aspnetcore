@@ -29,8 +29,8 @@ jobs:
         run: |
           cd src 
           dotnet build --configuration $config --no-restore
-          cd AspNetCoreMvcHtmx
-          docker build . -t aspnetcoremvchtmx
+          cd ModularAspNetCore
+          docker build . -t modular-aspnet-core
       - name: Test
         run: |
           cd src 

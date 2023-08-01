@@ -1,4 +1,4 @@
-namespace AspNetCoreMvcHtmx.Models;
+namespace ModularAspNetCore.Models;
 
 public class ErrorViewModel
 {

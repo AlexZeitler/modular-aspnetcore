@@ -3,6 +3,7 @@
   <component name="UserContentModel">
     <attachedFolders>
       <Path>../../AspNetCoreMvcHtmxTemplate</Path>
+      <Path>../../modular-aspnetcore</Path>
     </attachedFolders>
     <explicitIncludes />
     <explicitExcludes />
